@@ -60,8 +60,8 @@ namespace Ishan_Sharma_Lab04_Ex02
 
         private static LinkedList<Student> RemoveLinkedListItem(LinkedList<Student> studentList, Student[] students)
         {
-            Console.WriteLine("\n Removed First Student from the list");
-            studentList.Remove(students[0]);
+            Console.WriteLine("\n Removed Third Student from the list");
+            studentList.Remove(students[2]);
             return studentList;
         }
 
@@ -74,8 +74,8 @@ namespace Ishan_Sharma_Lab04_Ex02
 
         private static void SearchLinkedListItem(LinkedList<Student> studentList, Student[] students)
         {
-            Console.WriteLine("\n Contains: Student with Id = 3: {0}",
-                studentList.Contains(students[2]));
+            Console.WriteLine("\n Contains: Student with Id = 1: {0}",
+                studentList.Contains(students[1]));
 
         }
     }

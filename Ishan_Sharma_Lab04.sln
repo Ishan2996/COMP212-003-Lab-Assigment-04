@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishan_Sharma_Lab04_Ex01", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishan_Sharma_Lab04_Ex02", "Ishan_Sharma_Lab04_Ex02\Ishan_Sharma_Lab04_Ex02.csproj", "{0F19904B-0D94-4E99-8E31-A59B1AF98F33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishan_Sharma_Lab04_Ex03", "Ishan_Sharma_Lab04_Ex03\Ishan_Sharma_Lab04_Ex03.csproj", "{5FB87B1D-8B77-416F-8129-0A8527A40D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0F19904B-0D94-4E99-8E31-A59B1AF98F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F19904B-0D94-4E99-8E31-A59B1AF98F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F19904B-0D94-4E99-8E31-A59B1AF98F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB87B1D-8B77-416F-8129-0A8527A40D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB87B1D-8B77-416F-8129-0A8527A40D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB87B1D-8B77-416F-8129-0A8527A40D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB87B1D-8B77-416F-8129-0A8527A40D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
